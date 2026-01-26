@@ -85,7 +85,7 @@ sudo python3 analyzer.py --interface wlan0
 
 ## ⚖️ Ethical Disclaimer
 
-This tool is strictly for **Security Audit and Awareness** purposes only. It must only be used on networks and devices where the user has explicit legal permission to conduct testing. Unauthorized network interference or data interception is illegal and unethical.
+This tool is strictly for **Security Audit and Awareness** purposes only. It must only be used on networks and devices where the user has explicit legal permission to conduct testing. Unauthorized network interference or data interception is illegal and unethical
 
 ---
 
